@@ -33,3 +33,4 @@ Issue에서 Readme.md 파일을 다시 한번 git push를 통해 업로드하였
 한 번의 실수를 하거나 잘못된 습관을 들이면 이를 수정하고 교정하는데 배의 노력이 들어가기 때문이다.
 
 https://github.com/D5-wq/2025-1-Beginner-Study/pull/2
+<https://github.com/D5-wq/2025-1-Beginner-Study/pull/2>
